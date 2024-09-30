@@ -3,6 +3,7 @@
 	"description": "Bundle for log entities.",
 	"type": "library",
 	"license": "MIT",
+	"minium-stability": "stable",
 	"version": "1.0.0",
 	"autoload": {
 		"psr-4": {
@@ -15,7 +16,7 @@
 		}
 	},
 	"require": {
-		"php": "^8.3"
+		"php": "^8.3",
 	},
 	"require-dev": {
 	}
